@@ -1,0 +1,12 @@
+.menubar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 20px;
+}
+
+.logo {
+  display: block;
+  font-weight: bold;
+}
